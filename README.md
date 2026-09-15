@@ -15,10 +15,11 @@ const eduardo = {
   impact: ["Open Source Standard", "UN SDGs 4 & 9 Alignment"],
   vision: "Engineering autonomous resilience. Architecting global open standards."
 };
-02 // CORE_ENGINEERING_STACK
+
+## 02 // CORE_ENGINEERING_STACK
 LEVIATHAN SYSTEM > ALL CORE MODULES LOADED ✓
 
-03 // TERMINAL_TELEMETRY
+## 03 // TERMINAL_TELEMETRY
 Bash
 > booting leviathan core kernel...
 
@@ -33,14 +34,14 @@ OBJECTIVE   : High-performance low-latency autonomous node core
 STATUS      : OPERATIONAL / OPEN ARCHITECTURE
 
 > ready to deployment... █
-04 // GLOBAL_PROJECT_LEVIATHAN
+## 04 // GLOBAL_PROJECT_LEVIATHAN
 SYSTEM INFRASTRUCTURE > GLOBAL OPEN ACCESS ACTIVE ✓
 
-05 // SYSTEM_METRICS
-06 // CONTRIBUTION_MATRIX
+## 05 // SYSTEM_METRICS
+## 06 // CONTRIBUTION_MATRIX
 DEVELOPMENT MATRIX > CONTINUOUS EVOLUTION ✓
 
-07 // CONNECT
+## 07 // CONNECT
 SYSTEM STATUS > OPEN FOR GLOBAL DEEP TECH COLLABORATION ✓
 
 Thanks for accessing LEVIATHAN SYSTEMS.
